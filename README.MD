@@ -36,6 +36,6 @@ logo abaixo dos campos, terá um box de informações com o resumo da doação, 
 - 4: Crie um projeto em Nodejs ou PHP, de forma minimalista, para implementar a solução do problema proposto. Use docker compose para isolar os ambientes das aplicações
 - 4.2: Simule a integração com o gateway de pagamento (onde você envia os dados de pagamento para uma API externa, e recebe uma resposta).
 - 4.3: Simule a integração de envio de email por algum serviço externo (onde você envia os dados de email para uma API externa e recebe uma resposta);
--5 Crie um arquivo readme.md explicando sua abordagem para a solução desenvolvida
--6 Faça pull-request do seu projeto para este repositório
+- 5: Crie um arquivo readme.md explicando sua abordagem para a solução desenvolvida
+- 6: Faça pull-request do seu projeto para este repositório
 
