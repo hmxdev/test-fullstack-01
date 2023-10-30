@@ -31,10 +31,11 @@ logo abaixo dos campos, terá um box de informações com o resumo da doação, 
 
 ## Suas missão
 - 1: Faça um fork deste repositório;
-- 2: Crie um diagrama de fluxo de ações que você entendeu do problema, distinguindo o que deve acontecer no lado do frontend e no lado do backend. E adicionar o arquivo do diagrama (PDF ou JPG) no seu repositório;
-- 3: Crie um projeto em Nodejs ou PHP, de forma minimalista, para implementar a solução do problema proposto. Use docker compose para isolar os ambientes das aplicações
-- 3.2: Simule a integração com o gateway de pagamento (onde você envia os dados de pagamento para uma API externa, e recebe uma resposta).
-- 3.3: Simule a integração de envio de email por algum serviço externo (onde você envia os dados de email para uma API externa e recebe uma resposta);
-Crie um arquivo readme.md explicando sua abordagem para a solução desenvolvida
-- 3: Faça pull-request do seu projeto para este repositório
+- 2: Crie um diagrama de fluxo com os processos que você entendeu do problema, distinguindo o que deve acontecer no lado do frontend e no lado do backend. E adicionar o arquivo do diagrama (PDF ou JPG) no seu repositório;
+- 3: Crie o diagrama de modelagem da base de dados, especificando as tabelas, campos e relacionamento entre as tabelas;
+- 4: Crie um projeto em Nodejs ou PHP, de forma minimalista, para implementar a solução do problema proposto. Use docker compose para isolar os ambientes das aplicações
+- 4.2: Simule a integração com o gateway de pagamento (onde você envia os dados de pagamento para uma API externa, e recebe uma resposta).
+- 4.3: Simule a integração de envio de email por algum serviço externo (onde você envia os dados de email para uma API externa e recebe uma resposta);
+-5 Crie um arquivo readme.md explicando sua abordagem para a solução desenvolvida
+-6 Faça pull-request do seu projeto para este repositório
 
