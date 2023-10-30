@@ -29,7 +29,7 @@ logo abaixo dos campos, terá um box de informações com o resumo da doação, 
 
 
 
-## Suas missão
+## Sua missão
 - 1: Faça um fork deste repositório;
 - 2: Crie um diagrama de fluxo com os processos que você entendeu do problema, distinguindo o que deve acontecer no lado do frontend e no lado do backend. E adicionar o arquivo do diagrama (PDF ou JPG) no seu repositório;
 - 3: Crie o diagrama de modelagem da base de dados, especificando as tabelas, campos e relacionamento entre as tabelas;
