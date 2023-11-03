@@ -1,0 +1,19 @@
+:root {
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+body {
+  background: #0d1133;
+  color: #f1f2f3;
+}
+
+.image-hero {
+  display: flex;
+  align-items: end;
+}
